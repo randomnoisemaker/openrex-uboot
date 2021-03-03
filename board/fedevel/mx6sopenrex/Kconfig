@@ -1,14 +1,12 @@
-if TARGET_MX6OPENREX
- 
+if TARGET_MX6SOPENREX
+
 config SYS_BOARD
-	default "mx6openrex"
+	default "mx6sopenrex"
 
 config SYS_VENDOR
 	default "fedevel"
 
 config SYS_CONFIG_NAME
-	default "mx6openrex"
- 
+	default "mx6sopenrex"
+
 endif
-
-

@@ -1,0 +1,6 @@
+MX6SOPENREX BOARD
+M:	Fabio Estevam <fabio.estevam@nxp.com>
+S:	Maintained
+F:	board/fedevel/mx6sopenrex/
+F:	include/configs/mx6sopenrex.h
+F:	configs/mx6sopenrex_defconfig

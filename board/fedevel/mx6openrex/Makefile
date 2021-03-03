@@ -4,4 +4,5 @@
 #
 # (C) Copyright 2011 Freescale Semiconductor, Inc.
 
+
 obj-y  := mx6openrex.o
