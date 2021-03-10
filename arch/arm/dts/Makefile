@@ -621,6 +621,7 @@ dtb-y += \
 	imx6dl-nitrogen6x.dtb \
 	imx6dl-pico.dtb \
 	imx6dl-sabreauto.dtb \
+	imx6s-openrex.dtb \
 	imx6dl-sabresd.dtb \
 	imx6dl-wandboard-revb1.dtb \
 
